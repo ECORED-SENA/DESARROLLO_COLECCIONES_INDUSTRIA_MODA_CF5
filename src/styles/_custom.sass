@@ -1,0 +1,181 @@
+.banner-principal__img
+  animation-name: spin
+  animation-duration: 5.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin
+  0%
+    transform: translatex(0px)
+  50%
+    transform: translatex(16px)     
+  100%
+    transform: translatex(0px)
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.BorTit
+  border-left: 5px solid #529AD9
+  padding: 6px 0px 6px 10px           
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 50px
+      height: 50px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: white
+        font-weight: 700
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        font-size: 30px
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 20px
+      margin-right: 0.65rem
+      margin-top: 4px
+      img 
+        width: 20px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 0px  
+
+.bg-color-row-1
+  background-color: #c8f0f8
+
+.yoyo1 
+  animation: yoyo1 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo1 
+  0%  
+    transform: translatey(0px)
+  50%  
+    transform: translatey(-3px)
+  100%  
+    transform: translatey(0px) 
+
+.yoyo 
+  animation: yoyo 3.0s
+  animation-iteration-count: infinite
+
+@keyframes yoyo 
+  0%  
+    transform: translatex(0px)
+  50%  
+    transform: translatex(-6px)
+  100%  
+    transform: translatex(0px)     
+
+.hr
+  border: 1px solid #AFAFAF 
+
+.bloque-texto-c.color-secundario
+  background-color: lighten(#BF3976,40%)     
+
+.bg-color-row-2
+  background-color: #D6EBFB
+
+.slyder-a__bullets
+  bottom: -50px !important
+.slyder-a__bullets__item--active
+  background-color: #0AC4BF !important
+  border-color: #0AC4BF !important 
+.tarjeta--azul
+  background-color: #F2D6E3 !important 
+
+.bg-slide-color-1 
+  background-color: #F2D6E3 !important
+  border-radius: 20px  
+
+.bloque-texto-d.color-secundario::before
+  background-color: lighten(#8F2B58,50%)  
+.bloque-texto-d i
+  color: #FF4A69 
+.bloque-texto-d
+  border-top: 1px solid #FF4A69      
+
+.end
+  text-align: end  
+
+.p-color-1
+  background-color: #F2D6E3 !important 
+
+.p-color-2
+  background-color: #D6EBFB !important
+
+.cajon.color-primario
+  background-color: #F2D6E3 !important
+
+.bg-1
+  background-color: #D6EBFB !important
+  border-radius: 0px !important 
+
+.b-radius
+  border-radius: 10px !important 
+
+.lista-ul--color li > i:first-of-type
+  color: $color-secundario  
+
+.lista-ul__vineta::before
+  content: '● '  
+
+.bg-img 
+  background-image: url(../assets/ilustraciones/img32.jpg)
+  background-repeat: no-repeat
+  background-size: contain
+
+.bloque-texto-b.color-acento-contenido::before
+  background-color: #D6EBFB !important  
+
+.bg-t2-color-1
+  background-color: #EBEEEF  
+
+.bg-t2-color-2
+  background-color: #FCFBF9
+  border-top: 1px solid #7C613D    
+
+.bg-t2-color-3
+  background-color: #D9E3E5 
+
+.bg-t2-color-4
+  background-color:#E1D4C4  
+
+.bg-t2-color-5
+  background-color:#D6EBFB    
+
+.img-top
+  margin-top: -10.6em
+
+.text-sup
+  z-index: 1      
