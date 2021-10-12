@@ -15,11 +15,11 @@
     separador
     #t_1_1.titulo-segundo(data-aos="fade-right")
       h2 1.1 Introducción: los individuos y su entorno 
-    p(data-aos="fade-down") Siendo el eje central de las marcas, las personas se constituyen en la fuente principal de análisis al momento de crear un producto o servicio de moda, por lo cual se vuelve esencial analizar, identificar y caracterizar el mercado objetivo al que se dirige un negocio.     
+    p(data-aos="fade-down") Siendo el eje central de las marcas, #[b las personas] se constituyen en la #[b fuente principal de análisis] al momento de crear un producto o servicio de moda, por lo cual se vuelve esencial analizar, identificar y caracterizar el mercado objetivo al que se dirige un negocio.     
       
     .row.justify-content-center.align-items-center.bg-color-row-1.mt-5(data-aos="zoom-in")
       .col-lg-12
-        p.p-3(data-aos="fade-down").mb-0 La estrecha relación entre cliente, usuario, consumidor y comprador es tema de discusión entre los diferentes autores. Ahora se clarificará un poco esta terminología:  
+        p.p-3(data-aos="fade-down").mb-0 La estrecha relación entre #[b cliente, usuario, consumidor y comprador] es tema de discusión entre los diferentes autores. Ahora se clarificará un poco esta terminología:  
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-3(data-aos="fade-left")
@@ -31,21 +31,21 @@
             .list__item__bulletNumber(data-aos="zoom-in") 
               span 1
           .list__txt
-            p(data-aos="fade-down").mb-0 El usuario es para quien se crean los productos o servicios de una marca, quien sirve como fuente de inspiración.
+            p(data-aos="fade-down").mb-0 El #[b usuario] es para quien se crean los productos o servicios de una marca, quien sirve como #[b fuente de inspiración.]
         .hr.my-5            
         .list.mt-3
           .list__item
             .list__item__bulletNumber(data-aos="zoom-in") 
               span 2
           .list__txt
-            p(data-aos="fade-down").mb-0 El consumidor es quien, con su poder de definición y aceptación de los argumentos de compra, accede a los bienes y servicios, es a quien se dirigen los esfuerzos de comunicación de las marcas.          
+            p(data-aos="fade-down").mb-0 El #[b consumidor] es quien, con su poder de definición y aceptación de los argumentos de compra, #[b accede a los bienes y servicios], es a quien se dirigen los esfuerzos de comunicación de las marcas.          
         .hr.mt-5
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="zoom-in")
         .bloque-texto-c.color-secundario.p-4.mt-5
           i.fas.fa-quote-right
-          h4.mb-2 Al hablar de consumidor o usuario (segmento o mercado objetivo), se entiende como un grupo de personas con similitud o cercanía en sus manifestaciones culturales, gustos, preferencias, gestualidad, corporalidad, valores, motivaciones, actividades, movilidad, en fin, su estilo de vida y un contexto o entorno específico.
+          h4.mb-2 Al hablar de #[b consumidor o usuario] (segmento o mercado objetivo), se entiende como un #[b grupo de personas] con similitud o cercanía en sus manifestaciones culturales, gustos, preferencias, gestualidad, corporalidad, valores, motivaciones, actividades, movilidad, en fin, su estilo de vida y un contexto o entorno específico.
           span (Inexmoda & Tendencial Coolhuntig Lab, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Posner, 2015)
 
     .row.justify-content-center.align-items-center.mt-5
@@ -65,10 +65,10 @@
     separador
     #t_1_2.titulo-segundo(data-aos="fade-right")
       h2 1.2 Factores que influyen en el comportamiento del consumidor
-    p(data-aos="fade-down") Todos los individuos se convierten, de una u otra forma en consumidores, por lo tanto, hacen parte de algún tipo de estos. Existen múltiples factores que influyen en el comportamiento del consumidor, los hay externos e internos.
+    p(data-aos="fade-down") Todos los individuos se convierten, de una u otra forma en consumidores, por lo tanto, hacen parte de algún tipo de estos. Existen múltiples #[b factores que influyen en el comportamiento del consumidor], los hay #[b externos e internos.]
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in")
-        p.px-4.mb-0.pb-4.pt-3.bg-color-row-2(data-aos="fade-right") Los externos son los que dependen del colectivo, o sea, de un número de personas y pueden ser culturales; es decir, las tradiciones, las costumbres, leyes, lenguaje, historia y territorio o sociales, tales como, la clase social, los grupos de referencia (familia, amigos, vecinos, partido político y compañeros). <br>Los internos, factores que se derivan del individuo, son personales y psicológicos, así: edad, personalidad, gustos, preferencias, ocupación, roles, estilo de vida, percepciones, motivaciones, aptitudes, aprendizajes.  
+        p.px-4.mb-0.pb-4.pt-3.bg-color-row-2(data-aos="fade-right") #[b Los externos son los que dependen del colectivo], o sea, de un número de personas y pueden ser culturales; es decir, las tradiciones, las costumbres, leyes, lenguaje, historia y territorio o sociales, tales como, la clase social, los grupos de referencia (familia, amigos, vecinos, partido político y compañeros). <br> <b>Los internos, factores que se derivan del individuo,</b> son personales y psicológicos, así: edad, personalidad, gustos, preferencias, ocupación, roles, estilo de vida, percepciones, motivaciones, aptitudes, aprendizajes.  
         img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img3.png', alt='') 
 
     p(data-aos="fade-down").mt-5.text-center Cuando se estudian los perfiles del consumidor se analizan, tanto los factores externos como los internos.
@@ -150,7 +150,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-down")
       .col-lg-8
-        p(data-aos="fade-down").mt-5.text-center Las anteriores se suman al sinnúmero de preguntas que se deben formular cuando se estudia el perfil de un consumidor.<br>(Adaptado de Cárdenas Antúnez, 2014; Junta de Andalucía, s.f.; Ortega, 2015).
+        p(data-aos="fade-down").mt-5.text-center Las anteriores se suman al sinnúmero de #[b preguntas que se deben formular] cuando se estudia el perfil de un consumidor.<br>(Adaptado de Cárdenas Antúnez, 2014; Junta de Andalucía, s.f.; Ortega, 2015).
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4(data-aos="zoom-in-right")          
@@ -172,7 +172,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Anexo.] Comportamiento del Consumidor y las Emociones. (pendiente) 
+            p #[b Anexo.] Comportamiento del Consumidor y las Emociones.
       .col-lg-4(data-aos="zoom-in-left")          
         a.anexo.mb-4(href="https://www.youtube.com/watch?v=i5ui_DrtcpU" target="_blank")
           .anexo__icono
@@ -183,7 +183,7 @@
     separador
     #t_1_3.titulo-segundo(data-aos="fade-right")
       h2 1.3 Cultura y producto de moda: rol y simbolismo, valores culturales del consumidor
-    p(data-aos="fade-down") Al igual que los consumidores, los productos responden a las dinámicas culturales de cada lugar o contexto y a las necesidades y preferencias de los individuos. Las tradiciones, costumbres, leyes, ubicación geográfica, ideologías, el clima, entre otros, influyen en la manera en que las personas se apropian de los objetos, los incluyen en sus cotidianidades o los transforman, lo que para un grupo de personas significa algo o tiene valor, para otro puede pasar desapercibido. Es por ello que las marcas y productores, desarrollan diferentes tipos o estilos de cada producto, puede ser por funcionalidades específicas, por características formales (color, tamaño, textura, olor, presentación), temporadas y ediciones limitadas, entre otras.  
+    p(data-aos="fade-down") Al igual que los #[b consumidores], los productos responden a las #[b dinámicas culturales] de cada lugar o contexto y a las necesidades y preferencias de los individuos. Las tradiciones, costumbres, leyes, ubicación geográfica, ideologías, el clima, entre otros, #[b influyen en la manera en que las personas se apropian] de los objetos, los incluyen en sus cotidianidades o los transforman, lo que para un grupo de personas significa algo o tiene valor, para otro puede pasar desapercibido. Es por ello que #[b las marcas y productores, desarrollan diferentes tipos o estilos de cada producto], puede ser por funcionalidades específicas, por características formales (color, tamaño, textura, olor, presentación), temporadas y ediciones limitadas, entre otras.  
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")
       .col-lg-10
@@ -191,10 +191,10 @@
         .bloque-texto-d.color-secundario.p-4.mt-3
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular Los productos de vestuario no son la excepción, las marcas estudian muy bien a los consumidores según las regiones y diferencias culturales en las que hacen presencia, para corresponder tanto con sus necesidades como con sus preferencias, expectativas, capacidades económicas y demás características del mercado objetivo, para ofertar productos que correspondan directamente y garantizar la compra de estos; es por lo anterior que las marcas presentan variaciones de los productos según el contexto, por ejemplo: en las tiendas de distintas regiones de una misma marca se pueden encontrar surtidos diferentes de las tallas, los colores, las siluetas, las texturas (telas) y demás características formales de los productos y diferentes combinaciones (looks) de prendas según sea el comportamiento del consumidor en cada región específica.
+            p.text-regular Los productos de vestuario no son la excepción, #[b las marcas estudian muy bien a los consumidores] según las #[b regiones y diferencias culturales] en las que hacen presencia, para corresponder tanto con sus necesidades como con sus preferencias, expectativas, capacidades económicas y demás #[b características del mercado objetivo], para ofertar productos que correspondan directamente y garantizar la compra de estos; es por lo anterior que las marcas presentan variaciones de los productos según el contexto, por ejemplo: en las tiendas de #[b distintas regiones] de una #[b misma marca] se pueden encontrar #[b surtidos diferentes] de las tallas, los colores, las siluetas, las texturas (telas) y demás características formales de los productos y diferentes combinaciones (looks) de prendas según sea el comportamiento del consumidor en cada región específica.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 - (Adaptado de Espino, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Jones, 2002; Posner, 2015).
+            p.mb-0 #[b (Adaptado de Espino, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Jones, 2002; Posner, 2015).]
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-3(data-aos="zoom-in-right")          
@@ -228,7 +228,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-7
-        p(data-aos="fade-right") Así como se estudia al consumidor para conocer su estilo de vida y sus preferencias, se hace un estudio detallado de los productos según la ocasión de uso a la que se destine, por ejemplo: para un consumidor que valora las tradiciones, el lujo, lo clásico, se desarrollarán tipologías de vestuario para sus ocasiones de uso, es decir, un tipo de vestido de baño, un tipo de ropa de trabajo (oficina), un tipo de ropa deportiva, un tipo de ropa de descanso y así según los diferentes usos que las marcas encuentren para su consumidor, así este consumidor tendrá un vestido de baño neutro: clásico, probablemente enterizo, con detalles de confección y con telas de lujo, mientras que otro tipo de consumidor más inclinado por la moda o por la exhibición tendrá uno de dos o tres piezas, con siluetas que dejen ver más la piel y con texturas llamativas y de tendencia.
+        p(data-aos="fade-right") Así como se estudia al consumidor para conocer su estilo de vida y sus preferencias, se hace un estudio detallado de los productos según la ocasión de uso a la que se destine, por ejemplo: para un consumidor que valora las tradiciones, el lujo, lo clásico, se desarrollarán #[b tipologías de vestuario para sus ocasiones de uso], es decir, un tipo de vestido de baño, un tipo de ropa de trabajo (oficina), un tipo de ropa deportiva, un tipo de ropa de descanso y así según los #[b diferentes usos] que las marcas encuentren para su consumidor, así este consumidor tendrá un vestido de baño neutro: clásico, probablemente enterizo, con detalles de confección y con telas de lujo, mientras que otro tipo de consumidor más inclinado por la moda o por la exhibición tendrá uno de dos o tres piezas, con siluetas que dejen ver más la piel y con texturas llamativas y de tendencia.
         .bloque-texto-c.color-secundario.p-4.mt-4
           i.fas.fa-quote-right
           h4.mb-2 Así, para cada ocasión de uso, no es lo mismo practicar deportes tradicionales que de alto riesgo, no es igual trabajar como ejecutivo en una oficina que independientemente o de manera más informal, es así que los universos de vestuario y los perfiles de consumidor se cruzan para atender cada mercado objetivo. 
@@ -259,7 +259,7 @@
     separador
     #t_1_5.titulo-segundo(data-aos="fade-right")
       h2 1.5 Perfiles de consumidor: tradicional, neotradicional, contemporáneo, vanguardista, visionario
-    p(data-aos="fade-down") Como ya se ha mencionado, los perfiles de consumidor sirven para caracterizar un grupo de consumidores. Durante años las agencias de tendencias, los institutos de moda y los coolhunters han trabajado los perfiles de consumidor según su cercanía en la línea de tiempo con el pasado o con el futuro, estando más cerca de las tradiciones o adoptando nuevos cambios en su forma de vida. Por lo anterior, se establecen las categorías tradicional, neotradicional, contemporáneo, vanguardista y visionario como grandes agrupaciones de los consumidores.
+    p(data-aos="fade-down") Como ya se ha mencionado, #[b los perfiles de consumidor] sirven para #[b caracterizar un grupo de consumidores]. Durante años las agencias de tendencias, los institutos de moda y los #[i coolhunters] han trabajado los perfiles de consumidor según su cercanía en la línea de tiempo con el pasado o con el futuro, estando más cerca de las tradiciones o adoptando nuevos cambios en su forma de vida. Por lo anterior, se establecen las categorías #[b tradicional, neotradicional, contemporáneo, vanguardista y visionario] como grandes agrupaciones de los consumidores.
 
     TabsC.color-acento-botones.mt-5(data-aos="flip-down")
       .py-3.py-md-4(titulo="Los tradicionales")
@@ -270,7 +270,7 @@
           .col-md-7
             p Como su nombre lo indica, son consumidores que tienen un fuerte arraigo a las tradiciones, presentan resistencia al cambio, autocráticos, buscan distinción, se inclinan por el lujo, dan importancia a la etiqueta y el protocolo, conservan las normas, mantienen las costumbres, rígido, formal, exigente, se toma un tiempo para analizar y asumir nuevos productos o conceptos, sus compras son inversiones que hace para que perduren en el tiempo, rutinarios, fieles a los ritos familiares y sociales, se define por roles tradicionales específicos; para ellos más es más.
         
-      .py-3.py-md-4(titulo="Los tradicionales")
+      .py-3.py-md-4(titulo="Neotradicional")
         .row.justify-content-center.align-items-center
           .col-md-3.mb-4.mb-md-0
             img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img7.png', alt='')
@@ -278,7 +278,7 @@
           .col-md-7
             p Se puede definir como un tradicional más sintonizado con el entorno, flexible y abierto a nuevos cambios y conceptos, mantiene un equilibrio entre la tradición y la innovación, así como las tradiciones, rutinas, ritos y costumbres familiares y sociales; sin embargo, es más permeable a nuevos desarrollos, busca una armonía natural, son generalmente hijos de tradicionales que se han abierto más al mundo. 
 
-      .py-3.py-md-4(titulo="Los tradicionales")
+      .py-3.py-md-4(titulo="Contemporáneo")
         .row.justify-content-center.align-items-center
           .col-md-3.mb-4.mb-md-0
             img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img8.png', alt='')
@@ -286,7 +286,7 @@
           .col-md-7
             p es el producto de los constantes cambios sociales, culturales, económicos y tecnológicos de las últimas décadas, es un consumidor original, auténtico, que se mantiene en constante evolución, multicultural, dinámico, en permanente búsqueda de su mejor versión; para este, el conocimiento prima sobre lo material, es inquieto por aprender nuevas teorías, idiomas, culturas. Abierto al cambio, explorador de nuevas sensaciones, adopta conceptos de moda, sin cambiar su esencia. No da tanta importancia a los roles y las personas, son todas importantes. Prima la calidad sobre la cantidad en todos los aspectos de su vida. 
 
-      .py-3.py-md-4(titulo="Los tradicionales")
+      .py-3.py-md-4(titulo="Vanguardista – visionario")
         .row.justify-content-center.align-items-center
           .col-md-3.mb-4.mb-md-0
             img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img9.png', alt='')
@@ -318,16 +318,16 @@
     separador
     #t_1_6.titulo-segundo(data-aos="fade-right")
       h2 1.6 Nuevos perfiles del consumidor
-    p(data-aos="fade-down") A medida que el mundo avanza hacia las nuevas formas de vida, los consumidores se transforman y se crean nuevas tipologías o categorías para identificarlos. La forma en que se consume en la actualidad ha cambiado mucho, las Tecnologías de la Información y Comunicación (TIC), han permitido que el comercio digital y el mercadeo en línea conquisten a los mercados emergentes y han evidenciado la globalización de los consumidores. 
+    p(data-aos="fade-down") A medida que el mundo avanza hacia las nuevas formas de vida, #[b los consumidores se transforman y se crean nuevas tipologías o categorías para identificarlos]. La forma en que se consume en la actualidad ha cambiado mucho, las Tecnologías de la Información y Comunicación (TIC), han permitido que el comercio digital y el mercadeo en línea conquisten a los mercados emergentes y han evidenciado la globalización de los consumidores. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in")
-        p.px-4.mb-0.pb-4.pt-3.bg-color-row-2(data-aos="fade-right") Como los perfiles derivados del Tecno-consciente: un grupo de consumidores que viven el futuro en el ahora, son pioneros en el uso de las tecnologías en línea; sin embargo, dan igual importancia a desconectarse, están comprometidos con mejorar el mundo, con las causas medio ambientales y sociales, juegan diferentes roles, son multitareas y multimedia. A la hora de consumir, representan un papel activo en la compra, convirtiéndose en co-creadores con las marcas. 
+        p.px-4.mb-0.pb-4.pt-3.bg-color-row-2(data-aos="fade-right") Como los perfiles derivados del Tecno-consciente: un grupo de consumidores que viven el futuro en el ahora, son pioneros en el uso de las tecnologías en línea; sin embargo, dan igual importancia a desconectarse, están comprometidos con mejorar el mundo, con las causas medio ambientales y sociales, juegan diferentes roles, #[b son multitareas y multimedia]. A la hora de consumir, representan un papel activo en la compra, convirtiéndose en #[b co-creadores] con las marcas. 
         img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img10.jpg', alt='')     
         figcaption Fuente: La nueva visión del consumidor de moda (Inexmoda, 2015).
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="fade-right")        
-        p(data-aos="fade-down") Lo anterior, propone retos a las marcas de moda, puesto que les enfrenta a desarrollar nuevas estrategias de comunicación, acercamiento al consumidor y canales de ventas acordes con los nuevos perfiles de consumo. 
+        p(data-aos="fade-down") Lo anterior, propone retos a las marcas de moda, puesto que les enfrenta a desarrollar #[b nuevas estrategias de comunicación], acercamiento al consumidor y #[b canales de ventas] acordes con los #[b nuevos perfiles de consumo]. 
         p(data-aos="fade-down").p-4.p-color-1 (Adaptado de: D’andrea, Marcotte & Dixon, 2010; Etxebarria Gangoiti, 2004; Martínez, s.f.; Revista Info Retail, 2019; Rodriguez et al., s.f.).
 
     .row.justify-content-center.align-items-center.mt-5
@@ -347,19 +347,19 @@
     separador
     #t_1_7.titulo-segundo(data-aos="fade-right")
       h2 1.7 Estilos y minorías
-    p(data-aos="fade-down") La moda tradicionalmente se ha enfocado y reforzado en estándares establecidos y cánones de belleza dictados por las grandes marcas, las tendencias y la sociedad de consumo. Sin embargo, en la actualidad emprendedores emergentes se dedican a atender consumidores de las minorías, bien sea por hacer parte de una etnia racial diferente, tener algún tipo de discapacidades, elegir nuevas formas para su cuerpo, nuevas identidades o expresiones de género, ser más grandes o pequeños, en fin, ser diferentes.  
+    p(data-aos="fade-down") #[b La moda] tradicionalmente se ha #[b enfocado y reforzado en estándares establecidos y cánones de belleza dictados por las grandes marcas], las tendencias y la sociedad de consumo. Sin embargo, en la actualidad emprendedores emergentes se dedican a atender consumidores de las minorías, bien sea por hacer parte de una etnia racial diferente, tener algún tipo de discapacidades, elegir nuevas formas para su cuerpo, nuevas identidades o expresiones de género, ser más grandes o pequeños, en fin, #[b ser diferentes].  
 
     img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img11.jpg', alt='')  
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in-right")  
-        p(data-aos="fade-down").p-4.p-color-2.text-center Lo anterior ha permitido visibilizar estilos y minorías que en el pasado las grandes marcas no hubieran pensado en atender, por ejemplo:
+        p(data-aos="fade-down").p-4.p-color-2.text-center Lo anterior ha permitido #[b visibilizar estilos y minorías] que en el pasado las grandes marcas no hubieran pensado en atender, por ejemplo:
 
         SlyderB.mt-5(:datos="datosSlyder")(data-aos="fade-left") 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="fade-left")
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 Estos enfoques empiezan con las pequeñas marcas, ayudando a visualizar mercados huérfanos, para luego ser seguidas por las medianas y grandes y así, posteriormente, convertirse en perfiles de consumidor reconocidos por las grandes marcas (Adaptado de Calvo, 2016; Expertos en marca, s.f.; Silva, 2020).
+          p.mb-0 Estos enfoques empiezan con las pequeñas marcas, ayudando a visualizar #[b mercados huérfanos], para luego ser seguidas por las medianas y grandes y así, posteriormente, convertirse en perfiles de consumidor reconocidos por las grandes marcas (Adaptado de Calvo, 2016; Expertos en marca, s.f.; Silva, 2020).
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4(data-aos="zoom-in-right")          
@@ -404,7 +404,7 @@
     separador
     #t_1_8.titulo-segundo(data-aos="fade-right")
       h2 1.8 Tendencias globales
-    p(data-aos="fade-down") Si bien el consumidor se mide por las macrotendencias y, dentro de ellas se ubican las diferentes tipologías, se hace necesario percatarse de los comportamientos del mercado global. Las diferentes agencias y empresas que se encargan de pronosticar las tendencias emergentes coinciden en que el consumidor actual:  
+    p(data-aos="fade-down") Si bien el consumidor se mide por las #[b macrotendencias] y, dentro de ellas se ubican las #[b diferentes tipologías], se hace necesario percatarse de los comportamientos del mercado global. Las diferentes agencias y empresas que se encargan de pronosticar las tendencias emergentes coinciden en que el consumidor actual:  
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
@@ -413,57 +413,57 @@
           SlyderA
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Está cada vez más informado debido al uso de las Tecnologías de la Información y la Comunicación (TIC).
+                p.mb-0 Está cada vez #[b más informado] debido al uso de las #[b Tecnologías de la Información y la Comunicación] (TIC).
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Busca la transparencia de productos y marcas, es decir, que le digan la verdad y cumplan su promesa de valor, cuando un consumidor va a comprar algo ya lo ha revisado y validado en internet y con otras personas.
+                p.mb-0 Busca la #[b transparencia de productos y marcas], es decir, que le digan #[b la verdad y cumplan su promesa de valor], cuando un consumidor va a comprar algo ya lo ha revisado y validado en internet y con otras personas.
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Cuenta con tiempo reducido debido a las múltiples tareas en las que participa día a día.
+                p.mb-0 Cuenta con #[b tiempo reducido] debido a las múltiples tareas en las que participa día a día.
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Accede a tecnologías con mayor facilidad, la mayoría de los consumidores, independientemente de la edad o la clase social acceden a las diferentes tecnologías, no solo de la comunicación, sino, tecnologías aplicadas a la vida cotidiana.
+                p.mb-0 #[b Accede a tecnologías] con mayor facilidad, la mayoría de los consumidores, independientemente de la edad o la clase social acceden a las diferentes tecnologías, no solo de la comunicación, sino, #[b tecnologías aplicadas a la vida] cotidiana.
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Busca la personalización en los productos y servicios a fin de sentirse único, lo que lleva a las marcas cada día más, a ofrecer servicios adicionales de customización.
+                p.mb-0 Busca la #[b personalización en los productos y servicios] a fin de sentirse único, lo que lleva a las marcas cada día más, a ofrecer servicios adicionales de customización.
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Se interesa por el cuidado personal y del planeta, al sentirse habitante del mundo, cuida de sí mismo y del hogar (la tierra).
+                p.mb-0 Se interesa por el #[b cuidado personal y del planeta], al sentirse habitante del mundo, cuida de sí mismo y del hogar (la tierra).
 
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
-                p.mb-0 Siente un fuerte arraigo con su cultura local, adquiriendo piezas por el valor estético que adquieren o por su procedencia.
+                p.mb-0 Siente un fuerte #[b arraigo con su cultura local], adquiriendo piezas por el valor estético que adquieren o por su procedencia.
 
     .row.justify-content-center.align-items-center.d-block.d-lg-none.mt-4(data-aos="fade-left")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Está cada vez más informado debido al uso de las Tecnologías de la Información y la Comunicación (TIC).    
+        p.mb-0.text-center Está cada vez #[b más informado] debido al uso de las #[b Tecnologías de la Información y la Comunicación] (TIC).   
     .row.justify-content-center.align-items-center.d-block.d-lg-none(data-aos="fade-right")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Busca la transparencia de productos y marcas, es decir, que le digan la verdad y cumplan su promesa de valor, cuando un consumidor va a comprar algo ya lo ha revisado y validado en internet y con otras personas.  
+        p.mb-0.text-center Busca la #[b transparencia de productos y marcas], es decir, que le digan #[b la verdad y cumplan su promesa de valor], cuando un consumidor va a comprar algo ya lo ha revisado y validado en internet y con otras personas.  
     .row.justify-content-center.align-items-center.d-block.d-lg-none(data-aos="fade-left")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Cuenta con tiempo reducido debido a las múltiples tareas en las que participa día a día.  
+        p.mb-0.text-center Cuenta con #[b tiempo reducido] debido a las múltiples tareas en las que participa día a día. 
     .row.justify-content-center.align-items-center.d-block.d-lg-none(data-aos="fade-right")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Accede a tecnologías con mayor facilidad, la mayoría de los consumidores, independientemente de la edad o la clase social acceden a las diferentes tecnologías, no solo de la comunicación, sino, tecnologías aplicadas a la vida cotidiana.  
+        p.mb-0.text-center #[b Accede a tecnologías] con mayor facilidad, la mayoría de los consumidores, independientemente de la edad o la clase social acceden a las diferentes tecnologías, no solo de la comunicación, sino, #[b tecnologías aplicadas a la vida] cotidiana.
     .row.justify-content-center.align-items-center.d-block.d-lg-none(data-aos="fade-left")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Busca la personalización en los productos y servicios a fin de sentirse único, lo que lleva a las marcas cada día más, a ofrecer servicios adicionales de customización.  
+        p.mb-0.text-center Busca la #[b personalización en los productos y servicios] a fin de sentirse único, lo que lleva a las marcas cada día más, a ofrecer servicios adicionales de customización.
     .row.justify-content-center.align-items-center.d-block.d-lg-none(data-aos="fade-right")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Se interesa por el cuidado personal y del planeta, al sentirse habitante del mundo, cuida de sí mismo y del hogar (la tierra).  
+        p.mb-0.text-center Se interesa por el #[b cuidado personal y del planeta], al sentirse habitante del mundo, cuida de sí mismo y del hogar (la tierra).
     .row.justify-content-center.align-items-center.d-block.d-lg-none(data-aos="fade-left")
       .col-md-8.mb-4.mb-md-0.bg-1.p-2.b-radius
-        p.mb-0.text-center Siente un fuerte arraigo con su cultura local, adquiriendo piezas por el valor estético que adquieren o por su procedencia.
+        p.mb-0.text-center Siente un fuerte #[b arraigo con su cultura local], adquiriendo piezas por el valor estético que adquieren o por su procedencia.
 
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-10
-        p(data-aos="fade-down").mt-5 Por lo anterior, las marcas están llamadas a ofrecer productos y servicios que respondan, prácticamente, a la inmediatez, con la esencia clara y transparente, realizados con buenas prácticas ambientales, sociales (manufactura), amigables con el planeta, con una identidad clara y con una historia que contar. Para conseguirlo se alían fuertemente con la tecnología recurriendo a la inteligencia artificial, robótica, big data (grandes bases de datos), logística de producción y distribución, involucrando en sus procesos al consumidor (cocreación) como aliado. Adicionalmente, recurriendo a la producción local y bajo los conceptos culturales de la región.  
+        p(data-aos="fade-down").mt-5 Por lo anterior, las marcas están llamadas a #[b ofrecer productos y servicios] que respondan, prácticamente, a la #[b inmediatez], con la esencia clara y transparente, realizados con buenas prácticas ambientales, sociales (manufactura), amigables con el planeta, con una identidad clara y con una historia que contar. Para conseguirlo se alían fuertemente con la tecnología recurriendo a la inteligencia artificial, robótica, #[i big data] (grandes bases de datos), logística de producción y distribución, #[b involucrando en sus procesos al consumidor] (cocreación) #[b como aliado]. Adicionalmente, recurriendo a #[b la producción local] y bajo los #[b conceptos culturales] de la región.  
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-3(data-aos="zoom-in-right")          
@@ -490,9 +490,9 @@
       h2 1.9 Configuraciones estéticas: estilos de vida
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5
-        p(data-aos="fade-down") Para conocer a sus consumidores las empresas o marcas recurren a diferentes métodos, los entrevistan, hacen grupos de enfoque (focus group), observación participante o no participante, en fin, las que cada una de ellas considere son el mejor medio para conocer a fondo el estilo de vida de su consumidor. 
+        p(data-aos="fade-down") Para #[b conocer a sus consumidores] las empresas o marcas recurren a #[b diferentes métodos], los entrevistan, hacen grupos de enfoque (#[i focus group]), observación participante o no participante, en fin, las que cada una de ellas considere son el mejor medio para conocer a fondo el estilo de vida de su consumidor. 
 
-        p(data-aos="fade-down") Para la moda, se hace un ejercicio que se conoce como Street Vision (mirada de la calle), en el que por medio de fotografías se registran las personas, se analizan sus gestos, corporalidades, lugares en que se moviliza, su relación con las personas y el entorno, en general, todos los elementos que se puedan detectar en el registro fotográfico y que sirvan para, desde las configuraciones estéticas, definir cómo es ese grupo de personas al que se dirigen los productos o servicios. Algunas marcas, que atienden diferentes estilos mentales, hacen Street Vision para cada uno de estos.
+        p(data-aos="fade-down") Para la moda, se hace un ejercicio que se conoce como #[i Street Vision] (mirada de la calle), en el que por medio de fotografías se registran las personas, se analizan sus gestos, corporalidades, lugares en que se moviliza, su relación con las personas y el entorno, en general, todos los elementos que se puedan detectar en el registro fotográfico y que sirvan para, desde las configuraciones estéticas, definir cómo es ese grupo de personas al que se dirigen los productos o servicios. Algunas marcas, que atienden diferentes estilos mentales, hacen #[i Street Vision] para cada uno de estos.
 
       .col-lg-7
         img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img19.jpg', alt='')  
@@ -503,7 +503,7 @@
           .col-lg-3
             img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img20.svg', alt='') 
           .col-lg-9
-            p(data-aos="fade-down") Las situaciones de aislamiento a causa de problemáticas ambientales y de salud, ha llevado a que las empresas, investigadores y diseñadores realicen sus estudios de mercado en línea, por medio de encuentros sincrónicos, redes sociales y demás herramientas disponibles en la red. Es así como navegan por las redes sociales, tomando datos e imágenes de las personas, situaciones, lugares y demás criterios importantes para sus estudios.
+            p(data-aos="fade-down") Las situaciones de aislamiento a causa de #[b problemáticas ambientales y de salud], ha llevado a que las empresas, investigadores y diseñadores realicen sus #[b estudios de mercado en línea], por medio de encuentros sincrónicos, redes sociales y demás herramientas disponibles en la red. Es así como navegan por las redes sociales, tomando datos e imágenes de las personas, situaciones, lugares y demás criterios importantes para sus estudios.
 
             p(data-aos="fade-down").mb-0 (Adaptado de Dinngo, s.f.; Etxebarria, G. 2004; Inexmoda & Tendencial Coolhuntig Lab, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Posner, 2015; SENA & INAMOD, 2017a).  
 
@@ -538,7 +538,7 @@
     separador
     #t_1_10.titulo-segundo(data-aos="fade-right")
       h2 1.10 Comportamiento del consumidor colombiano
-    p(data-aos="fade-down") Para clasificar al consumidor de moda colombiano, el Instituto para la moda y la exportación Inexmoda con la agencia Tendencial Coolhunting Lab, realizaron un estudio denominado Zoom al consumidor colombiano, en el que, a partir de un Street vision realizado en las principales ciudades del país, se desglosan los perfiles de consumidor en diferentes estilos mentales, según sus:
+    p(data-aos="fade-down") Para clasificar al #[b consumidor de moda colombiano], el Instituto para la moda y la exportación Inexmoda con la agencia #[i Tendencial Coolhunting Lab], realizaron un estudio denominado #[i Zoom] al consumidor colombiano, en el que, a partir de un #[i Street vision] realizado en las principales ciudades del país, se desglosan #[b los perfiles de consumidor en diferentes estilos mentales], según sus:
 
     .row.justify-content-center.align-items-center.my-5
       .col-lg-10(data-aos="flip-up")    
@@ -739,7 +739,7 @@
         figcaption Fuente: Zoom al consumidor Colombiano (Inexmoda & Tendencial Coolhunting Lab. s.f.). 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10
-        p(data-aos="fade-down") Al igual que el consumidor mundial, el colombiano se transforma diariamente, a grandes velocidades, debido a los cambios de los mercados y de la humanidad. Actualmente, las personas están más dispuestas a pagar por aprender, porque se les enseñen, dejando un poco atrás el “bueno, bonito y barato” por el “ahora, divertido y a un precio justo”. La democratización del consumidor, le ha permitido hacer parte de los procesos en las empresas (cocreación).
+        p(data-aos="fade-down") Al igual que #[b el consumidor] mundial, el colombiano #[b se transforma diariamente], a grandes velocidades, debido a los cambios de los mercados y de la humanidad. Actualmente, las personas están más dispuestas a pagar por aprender, porque se les enseñen, dejando un poco atrás el “#[b bueno, bonito y barato]” por el “#[b ahora, divertido y a un precio justo]”. La democratización del consumidor, le ha permitido hacer parte de los procesos en las empresas (cocreación).
 
         p(data-aos="fade-down") Para el análisis local la firma KPMG identifica cuatro grandes categorías de consumidores y cómo abordarlos desde las marcas, así:
 
@@ -769,7 +769,7 @@
       .col-lg-2
         img.img-t.img-a.my-3(data-aos="fade-left")(src='@/assets/ilustraciones/img33.svg', alt='')
       .col-lg-8        
-        p(data-aos="fade-down") Debido al confinamiento, los consumidores han aumentado su consumo en línea, ven más televisión, consumen más entretenimiento por demanda (como lo afirma gamming & video on demand) y las experiencias virtuales.
+        p(data-aos="fade-down") Debido al confinamiento, los consumidores han aumentado su #[b consumo en línea], ven más televisión, consumen más #[b entretenimiento por demanda] (como lo afirma #[i gamming & video on demand]) y las experiencias virtuales.
 
         p(data-aos="fade-down") Adaptado de Mindshare, 2020; Confidencial Colombia, 2019; Consumidor Dinero, 2014; Economía Dinero, 2019; C. Herrera, 2019; Rios, 2016; Universidad Autónoma de Occidente & Raddar, 2017.  
 
@@ -798,17 +798,17 @@
 
     separador
     #t_1_11.titulo-segundo(data-aos="fade-right")
-      h2 1.11 Cómo consumirán los adolescentes de hoy dentro de 10 años
-    p(data-aos="fade-down") Siendo la generación “Z” (Zeta) los verdaderos nativos digitales, los hace consumidores que saben cómo crear y compartir contenido, navegan como pez en el agua por las redes sociales, en especial por aquellas con alto contenido visual y audiovisual, pasaron del computador al teléfono móvil, lo que les hace tener toda la información en la mano y estar permanentemente conectados. 
+      h2 1.11 ¿Cómo consumirán los adolescentes de hoy dentro de 10 años?
+    p(data-aos="fade-down") Siendo la generación “Z” (Zeta) los verdaderos #[b nativos digitales], los hace consumidores que saben cómo crear y compartir contenido, navegan como pez en el agua por las redes sociales, en especial por aquellas con alto #[b contenido visual y audiovisual], pasaron del computador al teléfono móvil, lo que les hace tener toda la información en la mano y estar permanentemente conectados. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in")
         img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img34.jpg', alt='')        
-        p.px-5.mb-0.pb-4.pt-3.bg-color-row-2(data-aos="fade-right") Ya están pasando de las aulas al mercado laboral, en el cual se proyectan como seres emprendedores con un alto sentido por el cambio social, luchando por la desigualdad, el medio ambiente y la participación ciudadana.<br>La primera generación con una clara consciencia de la globalidad hace uso de la interconexión que permiten las telecomunicaciones para, no solo estar al tanto de lo que sucede, sino para participar del cambio. 
+        p.px-5.mb-0.pb-4.pt-4.bg-color-row-2(data-aos="fade-right") Ya están #[b pasando de las aulas al mercado laboral], en el cual se proyectan como #[b seres emprendedores] con un alto sentido por el #[b cambio social], luchando por la desigualdad, el medio ambiente y la participación ciudadana.<br><br>La primera generación con una clara consciencia de la globalidad hace uso de la interconexión que permiten las telecomunicaciones para, no solo estar al tanto de lo que sucede, sino para participar del cambio. 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        p(data-aos="fade-down") Son los consumidores que realmente intervienen en el proceso de creación con las empresas, promoviendo y demandando transparencia de las marcas.      
+        p(data-aos="fade-down") Son los consumidores que realmente #[b intervienen] en el proceso de #[b creación con las empresas], promoviendo y demandando transparencia de las marcas.      
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6.p-color-1
         p.text-center Adaptado de Fernández, 2017; Vodafone Empresas, 2019; Merodio, 2019. 
@@ -835,14 +835,14 @@
 
     separador
     #t_1_12.titulo-segundo(data-aos="fade-right")
-      h2 1.12 Cómo analizar un perfil del consumidor de moda
-    p(data-aos="fade-down") El perfil de consumidor es la suma de los factores internos y externos que influyen en las personas a la hora de tomar decisiones de compra; por lo tanto, para analizar el consumidor, se debe ir a fondo, conocerlo, estudiarlo y mantenerse actualizado sobre su comportamiento, para lo cual se emplean diferentes técnicas y herramientas de investigación de mercados utilizadas en la antropología, el diseño y el marketing, tales como: entrevistas en contexto, grupos focales (focus group), encuestas, observación participante, observación no participante, exploración de redes sociales y las que cada empresa determine para su estudio.
+      h2 1.12 ¿Cómo analizar un perfil del consumidor de moda?
+    p(data-aos="fade-down") El #[b perfil de consumidor] es la #[b suma] de los #[b factores internos y externos] que influyen en las personas a la hora de tomar decisiones de compra; por lo tanto, para analizar el consumidor, se debe #[b ir a fondo, conocerlo, estudiarlo y mantenerse actualizado sobre su comportamiento], para lo cual se emplean diferentes técnicas y herramientas de investigación de mercados utilizadas en la antropología, el diseño y el #[i marketing], tales como: entrevistas en contexto, grupos focales (#[i focus group]), encuestas, observación participante, observación no participante, exploración de redes sociales y las que cada empresa determine para su estudio.
 
     img.img-t.img-a.mt-5(data-aos="fade-left")(src='@/assets/ilustraciones/img35.jpg', alt='') 
 
     .row.justify-content-start.align-items-center.mt-5
       .col-lg-9.text-sup(data-aos="fade-right")
-        p Identificando y describiendo el estilo de vida o el estilo mental del consumidor, para lo que se tiene en cuenta, entre otros, los criterios vistos anteriormente: gestualidades, corporalidades, valores, motivaciones, actividades, mapa de movilidad, referentes, redes sociales, marcas, productos y así determinar cómo es su estilo de vida y la relación que se establece o formará (cuando la empresa o marca es nueva) con los productos a ofrecerles.<br>Adaptado de Etxebarria, G., 2004; Inexmoda & Tendencial Coolhuntig Lab, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Merodio, 2019; Ortega, 2015; Posner, 2015.
+        p #[b Identificando y describiendo el estilo de vida o el estilo mental del consumidor], para lo que se tiene en cuenta, entre otros, los criterios vistos anteriormente: gestualidades, corporalidades, valores, motivaciones, actividades, mapa de movilidad, referentes, redes sociales, marcas, productos y así determinar cómo es su estilo de vida y la relación que se establece o formará (cuando la empresa o marca es nueva) con los productos a ofrecerles.<br><br>Adaptado de Etxebarria, G., 2004; Inexmoda & Tendencial Coolhuntig Lab, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Merodio, 2019; Ortega, 2015; Posner, 2015.
 
     .row.justify-content-end.align-items-center.img-top
       .col-lg-5
@@ -884,32 +884,32 @@ export default {
     datosSlyder: [
       {
         texto:
-          'Marcas y colecciones dirigidas a personas afrodescendientes o desarrolladas a partir de los referentes culturales de etnias latinoamericanas específicas.',
+          'Marcas y colecciones dirigidas a personas <b>afrodescendientes</b> o desarrolladas a partir de los <b>referentes culturales</b> de <b>etnias</b> latinoamericanas <b>específicas</b>.',
         imagen: require('@/assets/ilustraciones/img12.jpg'),
       },
       {
         texto:
-          'Prendas desarrolladas para personas con discapacidad visual o ceguera, en las que involucran bordados con volumen para ayudar a reconocer los colores y texturas.',
+          'Prendas desarrolladas para personas con <b>discapacidad visual o ceguera</b>, en las que involucran <b>bordados con volumen</b> para ayudar a reconocer los colores y texturas.',
         imagen: require('@/assets/ilustraciones/img13.jpg'),
       },
       {
         texto:
-          'Ropa para nuevos mercados como las personas de talla baja, quienes generalmente no logran conseguir ropa de adultos y deben recurrir a prendas infantiles, obteniendo resultados que no satisfacen sus necesidades específicas.',
+          'Ropa para <b>nuevos mercados</b> como las personas de <b>talla baja</b>, quienes generalmente no logran conseguir ropa de adultos y deben recurrir a prendas infantiles, obteniendo resultados que no satisfacen sus necesidades específicas.',
         imagen: require('@/assets/ilustraciones/img14.jpg'),
       },
       {
         texto:
-          'Las personas que han transformado su cuerpo por medio de cirugías y requieren prendas desarrolladas de manera diferente para vestir de manera óptima, al igual que la necesidad de prendas de control que les faciliten la recuperación y moldeamiento final del cuerpo.',
+          'Las personas que han <b>transformado su cuerpo</b> por medio de cirugías y requieren <b>prendas desarrolladas de manera diferente</b> para vestir de manera óptima, al igual que la necesidad de <b>prendas de control</b> que les faciliten la recuperación y moldeamiento final del cuerpo.',
         imagen: require('@/assets/ilustraciones/img15.jpg'),
       },
       {
         texto:
-          'La ropa sin género, que gana mercado a grandes pasos, desarrollada para personas que no se identifican con ninguno de los sexos biológicos (no binarios o queer), a llevado a las marcas a desarrollos nuevos en los cuales el patronaje (moldes) debe servirles a ambos tipos de cuerpos (femenino – masculino), las texturas y textiles deben ser neutros y los colores no representan una filiación con el género.',
+          '<b>La ropa sin género</b>, que gana mercado a grandes pasos, desarrollada para personas que no se identifican con ninguno de los sexos biológicos (no binarios o <i>queer</i>), a llevado a las marcas a desarrollos nuevos en los cuales el patronaje (moldes) debe servirles a ambos tipos de cuerpos (femenino – masculino), las texturas y textiles deben ser neutros y los colores no representan una filiación con el género.',
         imagen: require('@/assets/ilustraciones/img16.jpg'),
       },
       {
         texto:
-          'Mercados como las personas de tallas grandes o plus size, ganan cada vez más terreno en los mercados, convirtiendo en natural algo que, no hace mucho, era señalado como diferente, por no encajar en los estándares.',
+          'Mercados como las personas de <b>tallas grandes o <i>plus size</i></b>, ganan cada vez más terreno en los mercados, convirtiendo en natural algo que, no hace mucho, era señalado como diferente, por no encajar en los estándares.',
         imagen: require('@/assets/ilustraciones/img17.jpg'),
       },
     ],

@@ -86,13 +86,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.11',
-            titulo: 'Cómo consumirán los adolescentes de hoy dentro de 10 años',
+            titulo:
+              '¿Cómo consumirán los adolescentes de hoy dentro de 10 años?',
             hash: 't_1_11',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.12',
-            titulo: 'Cómo analizar un perfil del consumidor de moda',
+            titulo: '¿Cómo analizar un perfil del consumidor de moda?',
             hash: 't_1_12',
           },
         ],
@@ -1022,13 +1023,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
