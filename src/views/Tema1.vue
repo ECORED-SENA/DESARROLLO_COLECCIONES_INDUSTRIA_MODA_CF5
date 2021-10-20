@@ -284,7 +284,7 @@
             img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img8.png', alt='')
             figcaption Fuente: Perfiles de consumidor (Hoyos, 2020)       
           .col-md-7
-            p es el producto de los constantes cambios sociales, culturales, económicos y tecnológicos de las últimas décadas, es un consumidor original, auténtico, que se mantiene en constante evolución, multicultural, dinámico, en permanente búsqueda de su mejor versión; para este, el conocimiento prima sobre lo material, es inquieto por aprender nuevas teorías, idiomas, culturas. Abierto al cambio, explorador de nuevas sensaciones, adopta conceptos de moda, sin cambiar su esencia. No da tanta importancia a los roles y las personas, son todas importantes. Prima la calidad sobre la cantidad en todos los aspectos de su vida. 
+            p Es el producto de los constantes cambios sociales, culturales, económicos y tecnológicos de las últimas décadas, es un consumidor original, auténtico, que se mantiene en constante evolución, multicultural, dinámico, en permanente búsqueda de su mejor versión; para este, el conocimiento prima sobre lo material, es inquieto por aprender nuevas teorías, idiomas, culturas. Abierto al cambio, explorador de nuevas sensaciones, adopta conceptos de moda, sin cambiar su esencia. No da tanta importancia a los roles y las personas, son todas importantes. Prima la calidad sobre la cantidad en todos los aspectos de su vida. 
 
       .py-3.py-md-4(titulo="Vanguardista – visionario")
         .row.justify-content-center.align-items-center
@@ -292,7 +292,7 @@
             img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img9.png', alt='')
             figcaption Fuente: Inexmoda, 2015.      
           .col-md-7
-            p es un grupo de consumidores que se caracteriza por ser inconformistas, exploradores, extremadamente originales, innovadores y romper paradigmas, es este consumidor el que genera cambios y propone nuevos conceptos. Tiene una visión crítica del mundo, de los valores, de las sociedades y de todo lo que pueda ser cambiado. Constantemente busca nuevas experiencias, por lo que no se apegan a nada, viven al día y cuestionan todo.   
+            p Es un grupo de consumidores que se caracteriza por ser inconformistas, exploradores, extremadamente originales, innovadores y romper paradigmas, es este consumidor el que genera cambios y propone nuevos conceptos. Tiene una visión crítica del mundo, de los valores, de las sociedades y de todo lo que pueda ser cambiado. Constantemente busca nuevas experiencias, por lo que no se apegan a nada, viven al día y cuestionan todo.   
 
     p(data-aos="fade-down").mt-4.text-center (Adaptado de Hoyos, 2020; Inexmoda & Tendencial Coolhuntig Lab, s.f.; Inexmoda & Tendencial Coolhunting Lab, 2016; Inexmoda, 2015)          
 
