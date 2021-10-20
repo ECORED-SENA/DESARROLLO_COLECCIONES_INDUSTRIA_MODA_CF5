@@ -786,7 +786,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo en página.] Conozca el perfil demográfico de los consumidores colombianos.
+            p #[b Video en página.] Conozca el perfil demográfico de los consumidores colombianos.
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-4(data-aos="zoom-in")
