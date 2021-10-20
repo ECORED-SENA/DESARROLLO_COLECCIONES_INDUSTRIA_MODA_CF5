@@ -199,18 +199,8 @@ export default {
   referencias: [
     {
       referencia:
-        'Agencia EFE. (2017, 20 de julio). Isabella Springmühl, la diseñadora que rompe los prejuicios del síndrome de Down. [Video]. ',
-      link: 'Youtube. https://www.youtube.com/watch?v=TH3g1qe_kko',
-    },
-    {
-      referencia:
         'adn40. (2019, 26 de septiembre). Conoce el Athleisure, movimiento de la industria de la moda. [Video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=zAsPbnDTh8s&feature=youtu.be',
-    },
-    {
-      referencia:
-        'AMA.RILLO (MXP.LAB). (s.f.). Universos del vestuario. SlideShare. ',
-      link: 'https://es.slideshare.net/mezcaline/universos-del-vestuario',
     },
     {
       referencia:
@@ -245,19 +235,8 @@ export default {
     },
     {
       referencia:
-        'Cárdenas, R. J. (2014). Análisis del consumidor. Editorial Digital UNID. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=5307891',
-    },
-    {
-      referencia:
         'Chao, M., & Fernández, S. (2011). Los consumidores, clientes y usuarios. In Disposición y venta de productos (p. 16). ',
       link: 'http://www.mcgraw-hill.es/bcv/guide/capitulo/8448175840.pdf',
-    },
-    {
-      referencia:
-        'CIAI Cámara Industrial Argentina de Indumentaria. (s.f.). Moda sin género. Moda Argentina. ',
-      link: 'https://www.ciaindumentaria.com.ar/plataforma/moda-sin-genero/',
     },
     {
       referencia:
@@ -275,18 +254,6 @@ export default {
         'Confidencial Colombia. (2019, 22 de mayo). Conozca el perfil demográfico de los consumidores colombianos. Confidencial Colombia. ',
       link:
         'https://confidencialcolombia.com/economia/este-es-el-perfil-demografico-de-los-consumidores-colombianos-segun-bbva-research/2019/05/22/',
-    },
-    {
-      referencia:
-        'Consumidor Dinero. (2014, 20 de abril). Perfil de los consumidores colombianos. Dinero. ',
-      link:
-        'https://www.dinero.com/edicion-impresa/informe-especial/articulo/perfil-consumidores-colombianos/201630',
-    },
-    {
-      referencia:
-        'Cuello, E. (s.f.). PERFILES DE USUARIO Y UNIVERSOS DEL VESTUARIO.ppt - Presentaciones de Google. ',
-      link:
-        'https://docs.google.com/presentation/d/1zerNSZpQbIlRHN2Z3LWSVsSFl- FzSdbK2hWPuNj5dro/htmlpresent',
     },
     {
       referencia:
@@ -322,12 +289,6 @@ export default {
     {
       referencia:
         'Espino, P. (s.f.). Capítulo 11: La influencia de la cultura en el comportamiento del consumidor. In Comportamiento del consumidor (p. 11).',
-    },
-    {
-      referencia:
-        'Etxebarria G. (2004). ‘E-CONSUMER’: el consumidor y los retos del nuevo mercado. Ediciones Deusto - Planeta de Agostini Profesional y Formación S.L. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3159193',
     },
     {
       referencia:
@@ -517,12 +478,6 @@ export default {
     },
     {
       referencia:
-        'Posner, H. (2015). Marketing de moda (2a. ed.). Editorial Gustavo Gili. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=4536136',
-    },
-    {
-      referencia:
         'Ramírez, L. (2013, 9 de mayo). La Moda: El Reflejo de toda una Sociedad | Lina Ramirez A. Lina Ramirez A. ',
       link:
         'https://linaramireza.wordpress.com/2013/05/09/la-moda-un-reflejo-de-toda-una-sociedad/',
@@ -534,12 +489,6 @@ export default {
     },
     {
       referencia:
-        'Revista Info Retail. (2019, 28 de agosto). Opinión: ¿Cómo son los nuevos consumidores? | América Retail. ',
-      link:
-        'America Retail. https://www.america-retail.com/opinion/opinion-como-son-los-nuevos-consumidores/',
-    },
-    {
-      referencia:
         'Ríos, J. (2016, 15 de marzo). Los 4 nuevos perfiles del consumidor colombiano para los próximos 4 años - KPMG Colombia. KPMG. ',
       link:
         'https://home.kpmg/co/es/home/media/Notas de prensa/2016/03/los-cuatro-nuevos-perfiles-del-consumidor-colombiano-para-los-proximos-cuatro-aos.html',
@@ -547,12 +496,6 @@ export default {
     {
       referencia:
         'Rodríguez, A., Castrejón, C., & Cid, M. (s.f.). Multticultiralismo y mercados. In Universidad de Guanajuato.',
-    },
-    {
-      referencia:
-        'Saulquin, S. (2009). Jeans: la vigencia de un mito. Editorial Nobuko. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3195475',
     },
     {
       referencia:
@@ -607,12 +550,6 @@ export default {
     },
     {
       referencia: 'Tevisto.com. (2017). Diccionario de la moda.',
-    },
-    {
-      referencia:
-        'Thierry. (s.f.). Textiles inteligentes & Las aplicaciones potenciales de los textiles inteligentes. Thierry. ',
-      link:
-        'https://www.thierry-corp.com/mx/plasma/recursos/conceptos-fundamentales/textiles-inteligentes/',
     },
     {
       referencia:
