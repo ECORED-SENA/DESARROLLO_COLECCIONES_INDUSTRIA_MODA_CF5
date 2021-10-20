@@ -964,7 +964,7 @@ export default {
       },
       {
         nombre: 'Marisol Osorio',
-        cargo: 'Líder Sennova',
+        cargo: 'Líder sennova',
         centro:
           'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
       },
@@ -982,13 +982,13 @@ export default {
       },
       {
         nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
           'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Evaluador Instruccional',
+        cargo: 'Evaluador instruccional',
         centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
       },
       {
