@@ -50,13 +50,13 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-4(data-aos="zoom-in-right")          
-        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1Radiografia _del_consumidor_colombiano_Inexmoda_&_Tendencial_Coolhunting_Lab_2016.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1Radiografia _del_consumidor_colombiano_Inexmoda_Tendencial_Coolhunting_Lab_2016.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo.] Radiografía del consumidor colombiano. 
       .col-lg-4(data-aos="zoom-in-left")          
-        a.anexo.mb-4(:href="obtenerLink('/downloads/B_U1Los_consumidores_clientes_ y_usuarios_Chao_&_Fernandez_2011.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/B_U1Los_consumidores_clientes_ y_usuarios_Chao_Fernandez_2011.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -69,7 +69,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="zoom-in")
         p.px-4.mb-0.pb-4.pt-3.bg-color-row-2(data-aos="fade-right") #[b Los externos son los que dependen del colectivo], o sea, de un número de personas y pueden ser culturales; es decir, las tradiciones, las costumbres, leyes, lenguaje, historia y territorio o sociales, tales como, la clase social, los grupos de referencia (familia, amigos, vecinos, partido político y compañeros). <br> <b>Los internos, factores que se derivan del individuo,</b> son personales y psicológicos, así: edad, personalidad, gustos, preferencias, ocupación, roles, estilo de vida, percepciones, motivaciones, aptitudes, aprendizajes.  
-        img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img3.png', alt='') 
+        img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img3_1.jpg', alt='') 
 
     p(data-aos="fade-down").mt-5.text-center Cuando se estudian los perfiles del consumidor se analizan, tanto los factores externos como los internos.
     .row.justify-content-center.align-items-center.my-5
@@ -511,11 +511,11 @@
       .col-lg-4(data-aos="zoom-in-right")          
         a.anexo.mb-4(:href="obtenerLink('/downloads/K_U1_Zoom_al_consumidor_colombiano_inexmoda.rar')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-zip.svg")
+            img(src="@/assets/template/icono-ppt.svg")
           .anexo__texto
             p #[b Enlace web.] Zoom al consumidor colombiano. 
       .col-lg-4(data-aos="zoom-in")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/W_U1_Design_Thinking_para_el_diseño_y_desarrollo_de_producto_en_moda_SENA_&_ INAMOD 2017a.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/W_U1_Design_Thinking_para_el_diseño_y_desarrollo_de_producto_en_moda_SENA_INAMOD_2017a.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -523,7 +523,7 @@
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-4(data-aos="zoom-in-right")          
-        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1Radiografia _del_consumidor_colombiano_Inexmoda_&_Tendencial_Coolhunting_Lab_2016.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1Radiografia_del_consumidor_colombiano_Inexmoda_Tendencial_Coolhunting_Lab_2016.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -827,7 +827,7 @@
           .anexo__texto
             p #[b Enlace video.] ¿Qué busca, cómo piensa y cómo consume la generación Z? 
       .col-lg-3(data-aos="zoom-in")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/CC_U1_Consumer_nsight 2015_GenerationZ.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/CC_U1_Consumer_nsight_2015_GenerationZ.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -856,7 +856,7 @@
           .anexo__texto
             p #[b Enlace video.] Comportamiento del consumidor.
       .col-lg-4(data-aos="zoom-in")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1Radiografia _del_consumidor_colombiano_Inexmoda_&_Tendencial_Coolhunting_Lab_2016.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A_U1Radiografia_del_consumidor_colombiano_Inexmoda_Tendencial_Coolhunting_Lab_2016.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

@@ -395,7 +395,7 @@ export default {
     },
     {
       referencia:
-        'Infashionweb. (s.f.-a). IFW - Universos de la Moda, ¿Que son? ¿Cuantos existen? ¿Cuantos hay? esto y más en #InFashionWeb #TendenciaModa. In Fashion Web. ',
+        'Infashionweb. (s.f.-a). IFW - Universos de la Moda, ¿Qué son? ¿Cuántos existen? ¿Cuántos hay? esto y más en #InFashionWeb #TendenciaModa. In Fashion Web. ',
       link: 'http://infashionweb.com/universos_de_la_moda.html',
     },
     {
@@ -409,7 +409,7 @@ export default {
     },
     {
       referencia:
-        'Junta de Andalucía. (s.f.). Módulo 4: El compoortamiento del consumidor/a. In Técnicas de venta y comunicación comercial.',
+        'Junta de Andalucía. (s.f.). Módulo 4: El comportamiento del consumidor/a. In Técnicas de venta y comunicación comercial.',
     },
     {
       referencia:
@@ -470,7 +470,7 @@ export default {
     },
     {
       referencia:
-        'Ortega, E. (2015). TEMA 5. EL COMPORTAMIENTO DEL CONSUMIDOR Y DEL ASORGANIZACIONES. Área de Comercialización e Investigación de Mercados UNIVERSIDAD DE JAÉN TEMA, 1–28.',
+        'Ortega, E. (2015). TEMA 5. EL COMPORTAMIENTO DEL CONSUMIDOR Y DE LAS ORGANIZACIONES. Área de Comercialización e Investigación de Mercados UNIVERSIDAD DE JAÉN TEMA, 1–28.',
     },
     {
       referencia:
@@ -624,7 +624,7 @@ export default {
     {
       termino: 'Cliente',
       significado:
-        'Proviene del latín y se describe como la persona o entidad jurídica que se beneficia de otro ente para un bien común. Este término se utiliza desde mucho tiempo atrás, en las antiguas civilizaciones un tipo de personas de mayoor jerarquía recibía servicios de un grupo de menor posición y este es el principio de la definición (Definicion y que es, s.f.)',
+        'Proviene del latín y se describe como la persona o entidad jurídica que se beneficia de otro ente para un bien común. Este término se utiliza desde mucho tiempo atrás, en las antiguas civilizaciones un tipo de personas de mayor jerarquía recibía servicios de un grupo de menor posición y este es el principio de la definición (Definicion y que es, s.f.)',
     },
     {
       termino: 'Cocreación',
